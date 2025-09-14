@@ -359,4 +359,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-**Building Trust Through Transparency on the Stacks Blockchain** 🔗
+**Building Trust Through Transparency on the Stacks Blockchain** 🔗## Feature Branch
+
+This branch contains the complete implementation of the supply chain tracker with all contracts and documentation.
